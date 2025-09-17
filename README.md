@@ -34,7 +34,7 @@ O objetivo do projeto foi aprender na prática a criar **agentes inteligentes** 
 
    * Define nós de fluxo: `triagem`, `auto_resolver`, `pedir_info`, `abrir_chamado`.
    * Conecta decisões condicionais para simular um agente inteligente real.
-
+   * <img width="415" height="480" alt="image" src="https://github.com/user-attachments/assets/8409e8fd-0da5-47f8-8494-c41c095daa4c" />
 4. **Testes práticos**
 
    * Perguntas simuladas para validar comportamento do agente.
